@@ -1,0 +1,9 @@
+{
+	"name": "rajinidf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8db08555-7a5a-4c84-9094-dea3170aa68d",
+		"tenantId": "aa12091c-edd3-45b9-9cb7-51cbbd7ec6ca"
+	}
+}
